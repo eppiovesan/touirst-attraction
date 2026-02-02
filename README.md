@@ -8,7 +8,7 @@ Este projeto consiste em uma página estática que apresenta informações sobre
 
 ## 👀 Preview
 
-![Preview da Página de Pontos Turísticos](preview.png)
+![Preview da Página de Pontos Turísticos](preview-tourist-attraction.png)
 
 🔗 Link ao vivo (caso publicado com GitHub Pages):  
 https://eppiovesan.github.io/tourist-attraction
